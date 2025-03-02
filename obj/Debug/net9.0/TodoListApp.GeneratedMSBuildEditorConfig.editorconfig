@@ -48,6 +48,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG9kby9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/jose/Desktop/Code/net/TodoListApp/Views/Todo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG9kby9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jose/Desktop/Code/net/TodoListApp/Views/Todo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG9kby9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/jose/Desktop/Code/net/TodoListApp/Views/Todo/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG9kby9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

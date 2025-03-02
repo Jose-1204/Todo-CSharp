@@ -2,8 +2,8 @@ namespace TodoApp.Models;
 
 public class TodoItem
 {
-    public int Id { get; set; }
-    public string Title { get; set; }
-    public bool IsCompleted { get; set; }
-    public DateTime CreatedAt { get; set; } = DateTime.Now;
+    public int Id { get; set; }                  // Clave primaria (PK)
+    public string Title { get; set; }             // Título de la tarea
+    public bool IsCompleted { get; set; }         // Estado (completada/no)
+    public DateTime CreatedAt { get; set; } = DateTime.Now; // Fecha de creación
 }
