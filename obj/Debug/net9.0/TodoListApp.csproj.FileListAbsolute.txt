@@ -244,3 +244,4 @@
 /home/jose/Desktop/Code/net/TodoListApp/obj/Debug/net9.0/TodoListApp.pdb
 /home/jose/Desktop/Code/net/TodoListApp/obj/Debug/net9.0/TodoListApp.genruntimeconfig.cache
 /home/jose/Desktop/Code/net/TodoListApp/obj/Debug/net9.0/ref/TodoListApp.dll
+/home/jose/Desktop/Code/net/TodoListApp/obj/Debug/net9.0/TodoListApp.sourcelink.json
